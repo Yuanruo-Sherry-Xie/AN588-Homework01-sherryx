@@ -25,5 +25,3 @@
 -   In my original code is also 5 struggles I encountered while doing homework 1
 
 Thank you for reading this!👍
-
-TRYING IT OUT
