@@ -1,8 +1,10 @@
 ---
 title: "prettified-Sherryx_OriginalHomeworkCode_01"
-output: html_document
-date: "2025-02-01"
-toc: true
+output:
+  html_document:
+    toc: true
+    theme: united
+date: "2025-02-03"
 ---
 
 # Set Up
