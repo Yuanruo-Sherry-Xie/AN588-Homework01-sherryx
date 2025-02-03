@@ -1,0 +1,9 @@
+---
+title: "/prettified-Sherryx_OriginalHomeworkCode_01"
+output: html_document
+date: "2025-02-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
