@@ -310,7 +310,7 @@ df
 Rather than creating one from scratch, we more commonly read tabular data into ***R*** from a pre-existing data file (i.e., a spreadsheet), which typically results in the table being represented as a dataframe. The following code will read from the file “random-people.csv”, currently stored on a user’s Desktop:
 
 ```{r}
-df <- read.csv("//Users/sherryxie/CODE/Github/repos/AN588-Homework1-sherryx/random-people.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
+df <- read.csv("/Users/sherryxie/CODE/Github/repos/Homework/AN588-Homework01-sherryx/random-people.csv", sep = ",", header = TRUE, stringsAsFactors = FALSE)
 # only print select columns
 df[, c(1, 3, 4, 11, 12)]
 ```
